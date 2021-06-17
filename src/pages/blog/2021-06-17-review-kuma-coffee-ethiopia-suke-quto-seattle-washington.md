@@ -7,11 +7,7 @@ description: >
   started this blog. I remember liking their coffee for its fruity, bright
   notes, but I also remember struggling a bit in my first tasting because I was
   picking up on a papery taste from the unbleached filter I was using in my
-  Chemex. I’ve learned a lot in the six years since I had started delving deeply
-  into coffee, so when the folks at Kuma reached out to me about possibly doing
-  a couple of reviews of their current selections, I jumped at the chance to try
-  their coffee again, now being a bit older and wiser about how to get the most
-  out of my beans.
+  Chemex.
 featuredpost: true
 featuredimage: https://images.unsplash.com/photo-1512568400610-62da28bc8a13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80
 tags:
